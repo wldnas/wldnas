@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wildan Argia Salma</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+- 🌱 I’m currently learning **Linux**
+
+- 📫 How to reach me **argiasalma@gmail.com**
+
+- ⚡ Fun fact **I like girls, hehe**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wildan argia salma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wildan argia salma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wildanas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wildanas" height="30" width="40" /></a>
 <a href="https://instagram.com/idan2280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idan2280" height="30" width="40" /></a>
 </p>
 
